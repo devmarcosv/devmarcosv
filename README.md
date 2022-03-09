@@ -1,6 +1,6 @@
 ## 💜 Hello everyone, my name is <strong>{Marcos vinicius}!</strong>
 
-> I am 21 years old, work on Genesis technology in Dourados-MS ( Brazil )
+> I'm 22 , work at Genesis technology in Dourados-MS ( Brazil )
 
 
 ----
