@@ -25,4 +25,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmarcosv&show_icons=true)
 
 ## Profile
-<code><a href="https://app.daily.dev/takaon1"><img src="https://api.daily.dev/devcards/2b8ed1e1c3854d5fa3f84b07ca451378.png?r=f3e" width="400" alt="Marcos Vinicius's Dev Card"/></a></code>
+<code><a href="https://app.daily.dev/vin1_"><img src="https://api.daily.dev/devcards/2b8ed1e1c3854d5fa3f84b07ca451378.png?r=f3e" width="400" alt="Marcos Vinicius's Dev Card"/></a></code>
