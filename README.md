@@ -23,6 +23,7 @@
 
 ## ⭐ Details about me
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmarcosv&show_icons=true)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarcosv&layout=compact&langs_count=7&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
 
 ## Profile
 <code><a href="https://app.daily.dev/vin1_"><img src="https://api.daily.dev/devcards/2b8ed1e1c3854d5fa3f84b07ca451378.png?r=f3e" width="400" alt="Marcos Vinicius's Dev Card"/></a></code>
