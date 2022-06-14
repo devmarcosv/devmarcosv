@@ -26,3 +26,6 @@
 
 ## Profile
 <code><a href="https://app.daily.dev/vin1_"><img src="https://api.daily.dev/devcards/2b8ed1e1c3854d5fa3f84b07ca451378.png?r=f3e" width="400" alt="Marcos Vinicius's Dev Card"/></a></code>
+
+## Music of moment
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ul5kswylvv5so3hw4ofxixaity&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31ul5kswylvv5so3hw4ofxixaity&redirect=true)
