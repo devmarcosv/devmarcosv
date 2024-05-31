@@ -1,7 +1,7 @@
 # Salve 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://cdnb.artstation.com/p/assets/images/images/043/940/677/large/dao-trong-le-6.jpg?1638685801">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/564x/62/41/a7/6241a742e4167c53b47ef43ae995de11.jpg">
 </div>
 
 </br>
