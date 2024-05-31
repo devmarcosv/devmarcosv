@@ -12,7 +12,7 @@
 
 ### - Me chamo Vini, Tenho 24 anos e sou formado em Téc. Informática para internet ( IFMS ).
 
-<img hight="350" width="350" alt="GIF" align="right" src="https://i.pinimg.com/564x/f3/c9/9c/f3c99cee1df6c431c8f77d6642916bd3.jpg">
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/564x/f3/c9/9c/f3c99cee1df6c431c8f77d6642916bd3.jpg">
 
 ### - Hobbies : 
 - ✨ Jogar Videogame
