@@ -1,7 +1,7 @@
 # Salve 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/564x/62/41/a7/6241a742e4167c53b47ef43ae995de11.jpg">
+<img hight="300" width="700" alt="image" align="center" src="https://cdn.openart.ai/stable_diffusion/b71bb159a56df3fc2a67e415cf617972c854634a_2000x2000.webp">
 </div>
 
 </br>
