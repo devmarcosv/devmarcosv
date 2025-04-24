@@ -10,7 +10,7 @@
 
 # Sobre mim 💬 :
 
-### - Me chamo Vini, Tenho 24 anos e sou formado em Téc. Informática para internet ( IFMS ).
+### - Me chamo Vini, Tenho 25 anos e sou formado em Téc. Informática para internet ( IFMS ).
 
 ### - Hobbies : 
 - ✨ Jogar Videogame
