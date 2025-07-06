@@ -1,80 +1,53 @@
-# Salve 👋
+<!-- Cyberpunk Aesthetic Profile for devmarcosv -->
 
-<div align="center">
-<img hight="300" width="700" alt="image" align="center" src="https://cdn.openart.ai/stable_diffusion/b71bb159a56df3fc2a67e415cf617972c854634a_2000x2000.webp">
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6EE7FF&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I%27m+Marcos+%F0%9F%9A%80" alt="Hey, I'm Marcos" />
+</h1>
 
-</br>
-</br>
-</br>
-
-# Sobre mim 💬 :
-
-### - Me chamo Vini, Tenho 25 anos e sou formado em Téc. Informática para internet ( IFMS ).
-
-### - Hobbies : 
-- ✨ Jogar Videogame
-- ✨ Assistir Animes
-- ✨ Ler
-- ✨ Criar meus próprios Jogos
-
-</br>
-</br>
-</br>
-
-<p align="center" >  
-  <a href="https://github.com/devmarcosv/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=devmarcosv&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-  <p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-
-
-</br>
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-%236EE7FF.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital%20Games%20Student-%23A78BFA.svg?style=for-the-badge"/>
 </p>
-</br>
-</br>
-</br>
 
-# Meu contato :
+---
 
-<p>
- </br>
+## 🦾 About Me
 
+```yaml
+age: 25
+degree: Software Engineering
+focus: Digital Games
+vibe: Cyberpunk & Aesthetic
+```
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-<p align="center"> Se precisar falar comigo sobre qualquer coisa, seja uma dúvida, apenas para conversar ou até mesmo jogar junto, é só me chamar. 😉
+- 💻 Main Stacks: **Laravel**, **Typescript**, **C#**, **NodeJS**
+- 🧬 Currently Learning: **3D** & **AI**
+- 🎮 Hobbies: Gaming, Game Dev, Drawing
+
+---
+
+## 🔮 Projects & Highlights
+
+<!-- List standout projects here, or add your own below! -->
+- [Your Coolest Project](#)  
+- [Another Awesome Repo](#)  
+
+---
+
+## 🦋 Connect
+
+- 🌐 [LinkedIn](#) <!-- Add your LinkedIn link here -->
+- 💬 Open to collaboration on **game dev**, **AI**, or **creative tech** projects!
+
+---
+
+## ⚡ Fun Fact
+
+> “I build worlds—one line of code and one sketch at a time.”  
+> *Cyberpunk dreams, pixel by pixel.*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 </p>
-</br>
-<a href="devmarcosvinicius@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/marcos-vin%C3%ADcius-da-silva-santos-050973191/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
